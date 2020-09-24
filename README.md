@@ -18,12 +18,13 @@ Maybe Useful as a simple fast routing system for SMTP, POP, NNTP, IMAP, and HTTP
 <span>             |<span>
 ---                |---
 **Submitted On**   |1999-12-26 16:29:34
-**By**             |/\\/\\||<3\(Mike\)
+**By**             |[/\\/\\\|\|\<3\(Mike\)](https://github.com/Planet-Source-Code/PSCIndex/blob/master/ByAuthor/3-mike.md)
 **Level**          |Beginner
-**User Rating**    |3.7 (11 globes from 3 users)|
+**User Rating**    |3.7 (11 globes from 3 users)
 **Compatibility**  |VB 5\.0, VB 6\.0
-**Category**       |Internet/ HTML
-**Archive File**   |CODE\_UPLOAD256012261999\.zip
+**Category**       |[Internet/ HTML](https://github.com/Planet-Source-Code/PSCIndex/blob/master/ByCategory/internet-html__1-34.md)
+**World**          |[Visual Basic](https://github.com/Planet-Source-Code/PSCIndex/blob/master/ByWorld/visual-basic.md)
+**Archive File**   |[CODE\_UPLOAD256012261999\.zip](https://github.com/Planet-Source-Code/3-mike-direct-proxy-daemon-version-1-0__1-5147/archive/master.zip)
 
 
 
